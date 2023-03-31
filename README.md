@@ -3,7 +3,7 @@ SpinTek Internship Assignment
 
 Instructions:
 1. Download and unzip .zip file.
-2. Open unzipped folder as a project.
+2. Open folder "spintek" as a project.
 3. You will need to setup SDK. I was using "temurin-17 Eclipse Temurin version 17.0.6".
 3. Go to File->Project Structure->Project Settings->Modules->Payment_and_notification_dates-main (name of the project).
 5. Click on "Dependencies" and add "JARs or Directories".
