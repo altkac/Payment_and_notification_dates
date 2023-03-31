@@ -14,4 +14,5 @@ Instructions:
 10. After that you will receive a table in command line and a CSV file in a root folder of the project.
 
 Your CSV file should look like this (for 2023 year):
+
 ![image](https://user-images.githubusercontent.com/120138759/229192749-67011870-6f3f-4845-a641-aee053a98bc3.png)
