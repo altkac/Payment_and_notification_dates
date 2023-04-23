@@ -1,0 +1,4 @@
+Task:
+At Spin TEK, your salary is paid on the tenth of each month. Salaries can only be paid on a working day, so if the 10th falls on a weekend or public holiday, the salary will be paid on the working day preceding it. The accountant would like to receive a reminder of the payment of the salary three working days before the payment date.
+The task is to write a command-line application (CLI application) with an input of a year and an output of a table containing the date of payment of salary for each month of the selected year and the date on which the reminder is sent to the accountant (12 rows in total and the header of the table).
+The application must write the output to a CSV file (for example "2023.csv").
